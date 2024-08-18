@@ -2,11 +2,12 @@
 
 ###
 
-<p align="left">My name is David and I'm a Cybersecurity analyst based in Colombia</p>
-
 ###
 
 <h2 align="left">About me</h2>
+
+###
+<p align="left">My name is David and I'm a Cybersecurity analyst based in Colombia</p>
 
 ###
 
