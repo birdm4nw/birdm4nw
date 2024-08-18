@@ -7,7 +7,9 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">My name is David and I'm a Cybersecurity analyst based in Colombia</p>
+<h4 align="left">I'm David, a</h2>
+<h3 align="left">Cybersecurity analyst</h2>
+<p align="left">Currently based in Colombia and doing last semesters of a Software engineering degreee. </p>
 
 ###
 
