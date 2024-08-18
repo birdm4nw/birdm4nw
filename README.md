@@ -1,5 +1,3 @@
-<h1 align="left">🤖 Hello friend</h1>
-
 ###
 
 ###
