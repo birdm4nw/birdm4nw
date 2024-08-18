@@ -1,8 +1,8 @@
-<h1 align="left">🤖 Hello friend...</h1>
+<h1 align="left">🤖 Hello friend</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is David and I'm a Cybersecurity analyst based in Colombia</p>
 
 ###
 
