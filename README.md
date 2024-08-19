@@ -22,14 +22,13 @@
 
 ###
 
-### - 🧑🏼‍💻 Projects
+- ### 🧑🏼‍💻 [Projects](#projects)
+  - [Cybersecurity Homelab](https://example.com/cybersecurity-homelab)
+  - [Security IoT Application](https://example.com/security-iot-application)
 
-- Cybersecurity homelab
-- Security IoT application
+- ### 📕 [Certifications](#certifications)
+  - [Ethical Hacker by Cisco](https://example.com/ethical-hacker-cisco)
 
-### - 📕 Certifications
-
-- Ethical hacker by Cisco
 
 ###
 
