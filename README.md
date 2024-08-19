@@ -22,12 +22,12 @@
 
 ###
 
-- ### 🧑🏼‍💻 [Projects](#projects)
-  - [Cybersecurity Homelab](https://example.com/cybersecurity-homelab)
-  - [Security IoT Application](https://example.com/security-iot-application)
+- ### 🧑🏼‍💻 Projects
+  - [Cybersecurity Homelab](https://github.com/birdm4nw/Cybersecurity-HomeLab)
+  - [Security IoT Application](https://github.com/birdm4nw/security_app)
 
-- ### 📕 [Certifications](#certifications)
-  - [Ethical Hacker by Cisco](https://example.com/ethical-hacker-cisco)
+- ### 📕 Certifications
+  - [Ethical Hacker by Cisco](https://davidf.io/wp-content/uploads/2024/07/cisco_certification.pdf)
 
 
 ###
