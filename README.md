@@ -1,4 +1,6 @@
 ###
+![main_img](https://davidf.io/wp-content/uploads/2024/07/machine.png)
+
 
 ###
 
