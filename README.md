@@ -24,19 +24,12 @@
 
 ### 🧑🏼‍💻 Projects
 
-- Project 1
-  - Sub-project 1.1
-  - Sub-project 1.2
-- Project 2
-  - Sub-project 2.1
-  - Sub-project 2.2
+- Cybersecurity homelab
+- Security IoT application
 
 ### 📕 Certifications
 
-- Certification 1
-  - Details about Certification 1
-- Certification 2
-  - Details about Certification 2
+- Ethical hacker by Cisco
 
 ###
 
