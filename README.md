@@ -11,6 +11,8 @@
 <h2 align="left">I'm David</h2>
 <p align="left">A passionate science and technology enthusiast currently completing my final semesters in Software Engineering at a university in Colombia. With a strong interest in cybersecurity and a commitment to ongoing professional development, I have been actively engaged in this field for some time. I am seeking opportunities to further my career in cybersecurity and contribute effectively to the industry. </p>
 
+<p align="left">A passionate science and technology enthusiast currently completing my final semesters in Software Engineering at a university in Colombia. With a strong interest in cybersecurity and a commitment to ongoing professional development, I have been actively engaged in this field for some time. I am seeking opportunities to further my career in cybersecurity and contribute effectively to the industry. </p>
+
 ###
 
 <div align="left">
