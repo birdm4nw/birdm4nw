@@ -22,12 +22,12 @@
 
 ###
 
-### 🧑🏼‍💻 Projects
+### - 🧑🏼‍💻 Projects
 
 - Cybersecurity homelab
 - Security IoT application
 
-### 📕 Certifications
+### - 📕 Certifications
 
 - Ethical hacker by Cisco
 
