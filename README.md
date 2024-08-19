@@ -22,8 +22,21 @@
 
 ###
 
-<h3 align="center">🧑🏼‍💻 Projects</h3>
-<h3 align="center">📕 Certifications</h3>
+### 🧑🏼‍💻 Projects
+
+- Project 1
+  - Sub-project 1.1
+  - Sub-project 1.2
+- Project 2
+  - Sub-project 2.1
+  - Sub-project 2.2
+
+### 📕 Certifications
+
+- Certification 1
+  - Details about Certification 1
+- Certification 2
+  - Details about Certification 2
 
 ###
 
