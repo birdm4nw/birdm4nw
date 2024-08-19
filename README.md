@@ -9,7 +9,7 @@
 ###
 <h4 align="left">I'm David, a</h2>
 <h3 align="left">Cybersecurity analyst</h2>
-<p align="left">Currently based in Colombia and doing last semesters of a Software engineering degreee. </p>
+<p align="left">A passionate science and technology enthusiast currently completing my final semesters in Software Engineering at a university in Colombia. With a strong interest in cybersecurity and a commitment to ongoing professional development, I have been actively engaged in this field for some time. I am seeking opportunities to further my career in cybersecurity and contribute effectively to the industry. </p>
 
 ###
 
@@ -35,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="50" alt="windows logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" height="50" alt="pfsense logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="raspberry logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" height="60" alt="splunk logo" />
