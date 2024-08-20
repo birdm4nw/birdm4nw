@@ -18,7 +18,7 @@
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:w4termelon.01nocaptcha@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/david-gutierrez-57849a211)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/6KCra55y)
-
+[![HackTheBox](https://yt3.googleusercontent.com/ytc/AIdro_mrc5-jAD_jHtunQQVnSJgGkDNXbKfVAk2RXcsaBhTuHsQ=s900-c-k-c0x00ffffff-no-rj)](https://www.linkedin.com/in/david-gutierrez-57849a211)
 
 ###
 
