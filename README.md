@@ -9,7 +9,7 @@
 ###
 
 <h2 align="left">I'm David</h2>
-<p align="left">A passionate science and technology enthusiast currently completing my final semesters in **Software Engineering** at a university in Colombia. With a strong interest in **cybersecurity** and a commitment to ongoing professional development, I have been actively engaged in this field for some time. I am seeking opportunities to further my career in cybersecurity and contribute effectively to the industry. </p>
+<p align="left">A passionate science and technology enthusiast currently completing my final semesters in <strong>Software Engineering</strong> at a university in Colombia. With a strong interest in <strong>cybersecurity</strong> and a commitment to ongoing professional development, I have been actively engaged in this field for some time. I am seeking opportunities to further my career in cybersecurity and contribute effectively to the industry. </p>
 
 <p align="left">About my experience in cybersecurity, it has been shaped through a range of informal methods, including developing projects based on real-world IT scenarios, conducting ongoing research into cybersecurity trends and topics, completing specialized courses, and addressing challenges on capture-the-flag platforms such as Hack The Box and VulnHub. </p>
 
