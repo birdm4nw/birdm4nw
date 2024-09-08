@@ -32,6 +32,8 @@
 
 - ### 📕 Certifications
   - [Ethical Hacker by Cisco](https://davidf.io/wp-content/uploads/2024/07/cisco_certification.pdf)
+  - [Google Cybersecurity Professional by Coursera](https://davidf.io/wp-content/uploads/2024/09/googlecybersecurity_cert.pdf)
+  - [Cybersecurity fundamentals by MinTIC](https://www.linkedin.com/in/david-gutierrez-57849a211/details/certifications/)
 
 
 ###
