@@ -29,7 +29,7 @@
   - [Cybersecurity Homelab](https://github.com/birdm4nw/Cybersecurity-HomeLab)
   - [Security IoT Application](https://github.com/birdm4nw/security_app)
   - [Cipherty tool](https://github.com/birdm4nw/cipherty)
-  - [CTF Lab Resolution](https://davidf.io/wp-content/uploads/2024/09/machines_info.pdf)
+  - [CTF Labs Resolution](https://davidf.io/wp-content/uploads/2024/09/machines_info.pdf)
 
 - ### 📕 Certifications
   - [Ethical Hacker by Cisco](https://davidf.io/wp-content/uploads/2024/07/cisco_certification.pdf)
