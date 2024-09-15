@@ -25,7 +25,6 @@
 [![Tryhackme](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/birdm4nw)
 
 
-
 ###
 
 ## 🧑🏼‍💻 Projects
@@ -64,5 +63,5 @@
 ###
 
 
-[![](https://visitcount.itsvg.in/api?id=birdm4nw&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=birdm4nw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
