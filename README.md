@@ -15,6 +15,8 @@
 
 ###
 
+## 🌐 Socials
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A5319?style=for-the-badge&logo=todoist&logoColor=white)](https://davidf.io)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:w4termelon.01nocaptcha@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/david-gutierrez-57849a211)
