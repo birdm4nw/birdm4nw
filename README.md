@@ -38,6 +38,7 @@
   - [Cybersecurity Professional by Google](https://davidf.io/wp-content/uploads/2024/09/googlecybersecurity_cert.pdf)
   - [Cybersecurity fundamentals by MinTIC](https://www.linkedin.com/in/david-gutierrez-57849a211/details/certifications/)
   - [Cybersecurity Awareness by CertiProf](https://davidf.io/wp-content/uploads/2024/09/cybersecurity_awareness_cert.pdf)
+  - [Junior Cybersecurity Analyst by Cisco](https://davidf.io/wp-content/uploads/2024/10/junior_cybersecurity_analyst_career_path_badge20241002-7-aqx008.pdf)
 
 ###
 
