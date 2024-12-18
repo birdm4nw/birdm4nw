@@ -42,6 +42,7 @@
   - [Cybersecurity Awareness by CertiProf](https://davidf.io/wp-content/uploads/2024/09/cybersecurity_awareness_cert.pdf)
   - [Junior Cybersecurity Analyst by Cisco](https://davidf.io/wp-content/uploads/2024/10/junior_cybersecurity_analyst_career_path_badge20241002-7-aqx008.pdf)
   - [Splunk Security Essentials by Splunk](https://davidf.io/wp-content/uploads/2024/10/splunk_sec_essentials.pdf)
+  - [Cybersecurity and development researcher by Universidad Surcolombiana](https://davidf.io/wp-content/uploads/2024/12/devurity_cert-2024.pdf)
 
 ###
 
