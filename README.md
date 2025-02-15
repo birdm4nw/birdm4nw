@@ -36,7 +36,7 @@
 
     
 ## 📕 Certifications
-  - [eJPT by INE](https://davidf600.wordpress.com/wp-content/uploads/2025/02/ejpt_cert_main.pdf))
+  - [eJPT by INE](https://davidf600.wordpress.com/wp-content/uploads/2025/02/ejpt_cert_main.pdf)
   - [Ethical Hacker by Cisco](https://davidf.io/wp-content/uploads/2024/07/cisco_certification.pdf)
   - [Cybersecurity Professional by Google](https://davidf.io/wp-content/uploads/2024/09/googlecybersecurity_cert.pdf)
   - [Cybersecurity fundamentals by MinTIC](https://www.linkedin.com/in/david-gutierrez-57849a211/details/certifications/)
