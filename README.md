@@ -1,5 +1,5 @@
 ###
-![main_img](https://github.com/birdm4nw/birdm4nw/tree/main/img/cold_harbor.jpg)
+![Background picture](img/cold_harbor.jpg)
 
 
 ###
